@@ -1,0 +1,45 @@
+ul li {
+    display: inline;
+    padding: 12px;
+    letter-spacing: 5px;
+    font-weight: bold;
+    
+  } 
+  ul{
+    text-align: right;
+    line-height: 70px;
+  }
+  body {
+    margin: 0px;
+    font-size: 16px;
+    background-color: rgb(243, 238, 238);
+  }
+  .header{
+    position:sticky;
+    top:0;
+    background-color: yellow; 
+    height: 90px;
+  }
+  .footer{
+    position: fixed;
+        width: 100%;
+        background-color: yellow;
+        bottom: 0;
+        left: 0;
+        text-align: center;
+        height: 70px;
+        line-height: 71px;
+  }
+  .logo{
+    color:black;
+    font-weight: bold;
+    position: relative;
+    top:25px;
+    letter-spacing: 4px;
+  }
+  /* .main{
+    position:absolute;
+    bottom:100px;
+  } */
+
+  

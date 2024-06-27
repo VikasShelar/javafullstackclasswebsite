@@ -1,0 +1,109 @@
+body {
+  font-family: "Montserrat', sans-serif";
+  font-size: 18px;
+}
+.main {
+  margin-left: 160px;
+  font-size: 14px;
+  padding: 0px 10px;
+}
+.html-topic p {
+  margin-bottom: 12px;
+  color: blue;
+  font-weight: bold;
+}
+.main-section {
+  position: relative;
+  left: 300px;
+  top: -259px;
+  border: 1px solid rgb(224, 224, 224);
+  box-shadow: 1px 1px 4px 1px rgba(206, 204, 204, 0.42);
+  width: 60%;
+  height: auto;
+  border-radius: 9px;
+}
+.clr {
+  color: red;
+  font-family: bold;
+  text-decoration: underline;
+  padding-left: 30px;
+}
+
+.eg {
+  color: blue;
+}
+
+.h-6 {
+  padding-left: 70px;
+}
+.pclr {
+  color: #c71585;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.bg-clr {
+  background-color: white;
+}
+.top-next-link {
+  position: relative;
+  left: 650px;
+  top: -167px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.html-content {
+  padding-left: 12px;
+  text-decoration: none;
+}
+
+.b-next-link {
+  position: relative;
+  left: 650px;
+  bottom: 35px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.c-blue {
+  color: blue;
+}
+.div-margin {
+  margin-left: 25px;
+}
+.margin {
+  color: blue;
+  margin-left: 25px;
+}
+.link {
+  /* color: blue; */
+  color: blue;
+  text-decoration: none;
+}
+.link:hover {
+  color: rgb(13, 13, 95);
+}
+
+/* Specific styles for active links */
+.link-active {
+  color: red;
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+.btn1 {
+  padding:12px;
+  color: rgb(7, 7, 82);
+  text-decoration: underline;
+  text-decoration-color: rgb(7, 7, 82);
+  margin-right: 565px;
+}
+.btn2{
+  padding:12px;
+  color: rgb(7, 7, 82);
+  text-decoration: underline;
+  text-decoration-color: rgb(7, 7, 82);
+
+}
+.pl{
+  padding-left: 80px;
+}
